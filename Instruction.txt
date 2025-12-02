@@ -1,0 +1,4 @@
+Instruction:
+
+1. SVM and ANN output has been executed and ready to see in vs code / jupyter lab
+2. to run app4, key in streamlit run app4.py in terminal
